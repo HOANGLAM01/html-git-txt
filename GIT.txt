@@ -1,0 +1,20 @@
+﻿GIT
+Git là gì?
+Git là một hệ thống quản lý phiên bản phân tán (Distributed Version Control System - DVCS) được sử dụng để lưu trữ mã nguồn và hỗ trợ cộng tác trong quá trình phát triển ứng dụng.
+TẠỊ SAO CẦN SỬ DỤNG GIT ?
+Nó giúp lưu trữ mã nguồn, theo dõi các thay đổi, và hỗ trợ làm việc nhóm một cách hiệu quả.
+MỘT VÀI CÂU LỆNH PHỔ BIẾN
+* Git commit
+* Git push/git pull
+* Git branch
+* Git reset
+* Git remote
+* Git checkout
+* Git stash
+* Git merge
+* Git add
+* Git config
+* Git init
+* Git clone
+* Git status
+* Git add

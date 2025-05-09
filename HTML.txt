@@ -1,0 +1,29 @@
+﻿HTML
+Website là gì ? có quan trọng không ?
+một địa chỉ cụ thể trong mạng toàn cầu hay còn được gọi là trang mạng.
+Website có vai trò rất quan trọng trong việc đưa mọi người đến với những thông tin mà mình đang cần.
+HTML là gì ?
+(viết tắt của từ Hyper Text Markup Language , hay còn gọi là "Ngôn ngữ Đánh dấu Siêu văn bản") là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web trên World Wide Web
+World Wide Web, gọi tắt là WWW, mạng lưới toàn cầu là một không gian thông tin toàn cầu mà mọi người có thể truy cập (đọc và viết) thông tin qua các thiết bị kết nối với mạng Internet; một hệ thống thông tin trên Internet cho phép các tài liệu được kết nối với các tài liệu khác bằng các liên kết siêu văn bản, cho phép người dùng tìm kiếm thông tin bằng cách di chuyển từ tài liệu này sang tài liệu khác. Thuật ngữ này thường được hiểu nhầm là từ đồng nghĩa với chính thuật ngữ Internet. Nhưng Web thực ra chỉ là một trong các dịch vụ chạy trên Internet, ngoài Web ra còn các dịch vụ khác như thư điện tử hoặc FTP
+Cách sử dụng HTML ?
+Thẻ HTML
+có thể xác định kích thước phông chữ cũng như định dạng chữ cơ bản như in đậm hoặc in nghiêng.
+Phần tử HTML (HTML Elements)
+Phần tử HTML thường bắt đầu bằng cặp dấu ngoặc góc (<>, </>) được gọi là thẻ mở và thẻ đóng.
+Thuộc tính HTML (HTML Attribute) 
+Các phần tử sẽ có thuộc tính chứa thông tin bổ sung về phần tử đó
+Lồng các phần tử (Nesting)
+Một phần tử có thể được đặt trong một phần tử khác và sẽ được gọi là lồng các phần tử.
+Block-Level và Inline HTML
+
+
+Các thành phần của một trang web?
+Source Code (mã nguồn)
+Web hosting (Lưu trữ web)
+Tên miền (domain)
+Các thành phần giao diện website
+Header
+Slider/Carousel
+Content Area
+Footer
+Sidebar
